@@ -11,7 +11,7 @@ I took my time testing the elemets of HTML and CSS and fixed what I could.
 
 ## Usage
 
-(assets/images/Screenshot%20for%20README.png)
+https://arthur528.github.io/Horseion-project/
 
 ## Credits
 
